@@ -8,6 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+- title: "Publications"
+  url: /https://scholar.google.com/citations?user=0Omk0k0AAAAJ&hl=en
     
   # - title: "CV"
   #   url: /cv-json/
