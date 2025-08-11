@@ -25,7 +25,7 @@ author:
   avatar           : "jnb_square.jpg"
   name             : "Joel Neves Briard"
   pronouns         : # example: "she/her"  
-  bio              : "Physician-Scientist"
+  bio              : #
   location         : "Montréal, CAN"
   employer         : "Université de Montréal"
   uri              : # URL
