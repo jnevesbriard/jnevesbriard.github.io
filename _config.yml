@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "jnb_square.jpg"
-  name             : "Joel Neves Briard"
+  name             : #
   pronouns         : # example: "she/her"  
   bio              : #
   location         : "Montréal, CAN"
