@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a neurocritical care physician scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, ischemic stroke, hypoxic brain injury and status epilepticus.
+Welcome! I am a neurocritical care physician scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, ischemic stroke, hypoxic brain injury and status epilepticus. Please feel free to reach out to discuss any potential collaborations or opportunities.
 
 ## Academic Background
 
@@ -22,7 +22,7 @@ My academic work currently focuses on these themes:
 
 I also have interests in ICU electroencephalography, management of status epilepticus, and end-of-life care in the ICU.
 
-### Select Publications
+### Selected Publications
 
 - Chassé M, Shankar JJS, Fergusson DA, English SW, Dhanani S, Lauzier F, et al. Computed tomography perfusion and angiography for death by neurologic criteria. JAMA Neurology. Published online June 13, 2025; DOI: 10.1001/jamaneurol.2025.2375.
 - Glorion M*, Neves Briard J*, Roquebert L, Pizzi S, Menaouar A, Borie M, et al. Thoraco-abdominal normothermic regional perfusion does not restore cerebral blood flow or electrical activity despite collateral supra-aortic blood flow in a porcine model. Journal of Heart and Lung Transplantation Open. 2025; 100221. * Co-first authors.
