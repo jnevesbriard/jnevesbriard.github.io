@@ -11,7 +11,7 @@ Welcome! I am a neurocritical care physician scientist who aims to improve the o
 
 ## Academic Background
 
-I obtained my undergraduate degree in chemisty at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology. I also obtained certification in electroencephalography from the Canadian Society of Clinical Neurophysiologists.
+I obtained my undergraduate degree in chemisty at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography from the Canadian Society of Clinical Neurophysiologists.
 
 ## Academic Interests
 
