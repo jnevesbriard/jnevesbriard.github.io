@@ -37,4 +37,4 @@ My work has been highlighed by several high profile awards, such as the 2024 Rel
 
 ### Funding
 
-My upcoming research fellowship is generously supported by grants from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada.
+My upcoming research fellowship is generously supported by grants from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada.
