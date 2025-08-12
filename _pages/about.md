@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a neurocritical care physician scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, ischemic stroke, hypoxic brain injury and status epilepticus. Please feel free to reach out to discuss any potential collaborations or opportunities.
+Welcome! I am a neurocritical care physician scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, ischemic stroke, hypoxic brain injury and status epilepticus. Please feel free to reach out to discuss potential areas of collaboration.
 
-## Academic Background
+## Background
 
 I obtained my undergraduate degree in chemisty at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography from the Canadian Society of Clinical Neurophysiologists.
 
-## Academic Interests
+## Interests
 
 My academic work currently focuses on these themes:
 - Ancillary investigations for death determination by neurologic criteria;
