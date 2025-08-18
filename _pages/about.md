@@ -11,7 +11,7 @@ Welcome! I am a neurocritical care physician-scientist who aims to improve the o
 
 ## Background
 
-I obtained my undergraduate degree in chemistry at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography from the Canadian Society of Clinical Neurophysiologists.
+I obtained my undergraduate degree in chemistry at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography.
 
 ## Interests
 
@@ -37,4 +37,4 @@ My work has been highlighed by excellence awards, such as the 2024 Relève Étoi
 
 ### Funding
 
-My upcoming research fellowship is generously supported by grants from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada.
+I am fortunate to have received research fellowship grants from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada.
