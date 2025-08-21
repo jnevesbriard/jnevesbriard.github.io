@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a neurocritical care physician-scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, ischemic stroke, hypoxic brain injury and status epilepticus. Please feel free to reach out to discuss potential areas of collaboration.
+Welcome! I am a neurocritical care physician-scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, intracerebral hemorrhage, ischemic stroke and status epilepticus. Please feel free to reach out to discuss potential areas of collaboration.
 
 ## Background
 
@@ -15,7 +15,7 @@ I obtained my undergraduate degree in chemistry at McGill University and my medi
 
 ## Interests
 
-My academic work currently focuses on these themes:
+My research currently focuses on these themes:
 - Ancillary investigations for death determination by neurologic criteria;
 - Infratentorial stroke and the isolated brainstem death construct among patients suspected of death by neurologic criteria;
 - Prediction of functional recovery from acute disorders of consciousness.
