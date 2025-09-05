@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a neurocritical care physician-scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, intracerebral hemorrhage, ischemic stroke and status epilepticus. Please feel free to reach out to discuss potential areas of collaboration.
+Welcome! I am a neurocritical care physician-scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, intracerebral hemorrhage, ischemic stroke and status epilepticus.
 
 ## Background
 
@@ -29,12 +29,7 @@ I also have interests in ICU electroencephalography, management of status epilep
 - Neves Briard J, Nitulescu R, Lemoine E, Titova P, McIntyre L, English SW, et al. Diagnostic accuracy of ancillary tests for death by neurologic criteria: A systematic review and meta-analysis. *Canadian Journal of Anesthesia*. 2023; 70: 736-48.
 - Shemie SD, Wilson LC, Hornby L, Basmaji J, Baker AJ, Bensimon CM, et al. A brain-based definition of death and criteria for its determination after arrest of neurologic or circulatory function in Canada: A 2023 clinical practice guideline. *Canadian Journal of Anesthesia*. 2023; 70: 483-557.
 - Neves Briard J, Plourde G, Nitulescu R, Boyd JG, Couillard P, Carrier FM, et al. Infratentorial brain injury among patients suspected of death by neurologic criteria: A systematic review and meta-analysis. *Neurology*. 2023; 100(4): e443-53.
-- Chassé M, Neves Briard J, Yu M, Carvalho LP, English SW, D’Aragon F, et al. Clinical evaluation and ancillary testing for the diagnosis of death by neurologic criteria: a cross-sectional survey of Canadian intensivists. *Canadian Journal of Anesthesia*. 2022; 69(3): 353-63.
 
-### Prizes
+### Funding and Awards
 
-My work has been highlighted by excellence awards, such as the 2024 Relève Étoile Jacques-Genest Award from the Fonds de recherche du Québec.
-
-### Funding
-
-I am fortunate to be supported by research fellowships from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada.
+I am fortunate to be supported by research fellowships from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada. My work has been highlighted by excellence awards, such as the 2024 Relève Étoile Jacques-Genest Award from the Fonds de recherche du Québec.
