@@ -16,15 +16,15 @@ I obtained my undergraduate degree in chemistry at McGill University and my medi
 ## Interests
 
 My research currently focuses on these themes:
-- Ancillary investigations for death determination by neurologic criteria;
 - Infratentorial stroke and the isolated brainstem death construct among patients suspected of death by neurologic criteria;
+- Impact of sedative and analgesic medications on consciousness assessment in critically ill individuals;
 - Prediction of functional recovery from acute disorders of consciousness.
 
 I also have interests in ICU electroencephalography, management of status epilepticus, and end-of-life care in the ICU.
 
 ### Selected Publications
 
-- Chassé M, Shankar JJS, Fergusson DA, English SW, Dhanani S, Lauzier F, et al. Computed tomography perfusion and angiography for death by neurologic criteria. *JAMA Neurology*. Published online June 13, 2025; DOI: 10.1001/jamaneurol.2025.2375.
+- Chassé M, Shankar JJS, Fergusson DA, English SW, Dhanani S, Lauzier F, et al. Computed tomography perfusion and angiography for death by neurologic criteria. *JAMA Neurology*. 2025; 82(9): 932–40.
 - Glorion M, Neves Briard J, Roquebert L, Pizzi S, Menaouar A, Borie M, et al. Thoraco-abdominal normothermic regional perfusion does not restore cerebral blood flow or electrical activity despite collateral supra-aortic blood flow in a porcine model. *Journal of Heart and Lung Transplantation Open*. 2025; 100221.
 - Neves Briard J, Nitulescu R, Lemoine E, Titova P, McIntyre L, English SW, et al. Diagnostic accuracy of ancillary tests for death by neurologic criteria: A systematic review and meta-analysis. *Canadian Journal of Anesthesia*. 2023; 70: 736-48.
 - Shemie SD, Wilson LC, Hornby L, Basmaji J, Baker AJ, Bensimon CM, et al. A brain-based definition of death and criteria for its determination after arrest of neurologic or circulatory function in Canada: A 2023 clinical practice guideline. *Canadian Journal of Anesthesia*. 2023; 70: 483-557.
