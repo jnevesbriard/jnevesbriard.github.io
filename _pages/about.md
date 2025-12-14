@@ -11,7 +11,7 @@ Welcome! I am a neurocritical care physician-scientist who aims to improve the o
 
 ## Background
 
-I obtained my undergraduate degree in chemistry at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography.
+I obtained my undergraduate degree in chemistry at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography. I am currently a postdoctoral research fellow in the Disorders of Consciousness Lab in the Department of Neurology at Columbia University.  
 
 ## Interests
 
