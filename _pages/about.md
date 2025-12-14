@@ -33,4 +33,6 @@ I also have interests in ICU electroencephalography, management of status epilep
 ### Funding and Awards
 
 I am fortunate to be supported by research fellowships from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada. My work has been highlighted by excellence awards, such as the 2024 Relève Étoile Jacques-Genest Award from the Fonds de recherche du Québec.  
+
+###
 ![Funding agencies](images/Funding logos.tiff)
