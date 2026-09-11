@@ -7,20 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a neurocritical care physician-scientist who aims to improve the outcomes of individuals with acute and severe brain injury such as subarachnoid hemorrhage, intracerebral hemorrhage, ischemic stroke and status epilepticus.
+Welcome!
 
-## Background
+## Bio
 
-I obtained my undergraduate degree in chemistry at McGill University and my medical degree at Université de Montréal. During my postgraduate medical education at Université de Montréal, I completed training in the neurology, critical care medicine and clinician-investigator programs, and I obtained my master's degree in epidemiology and certification in electroencephalography. I am currently a postdoctoral research fellow in the Disorders of Consciousness Lab in the Department of Neurology at Columbia University.  
+I am a neurologist, intensivist and clinical epidemiologist. My current area of research is multimodal prediction of recovery from coma and other acute disorders of consciousness after severe brain injury.  
 
 ## Interests
 
-My research currently focuses on these themes:
-- Infratentorial stroke and the isolated brainstem death construct among patients suspected of death by neurologic criteria;
-- Impact of sedative and analgesic medications on consciousness assessment in critically ill individuals;
-- Prediction of functional recovery from acute disorders of consciousness.
-
-I also have interests in ICU electroencephalography, management of status epilepticus, and end-of-life care in the ICU.
+My research currently focuses on the implications of sedative and analgesic medications on consciousness assessment and prognostication in critically ill individuals. I have a general interest in prediction of functional recovery from acute disorders of consciousness and in precision neurocritical care. My previous area of research was death determination by neurologic criteria.  
 
 ### Selected Publications
 
@@ -32,6 +27,6 @@ I also have interests in ICU electroencephalography, management of status epilep
 
 ### Funding and Awards
 
-I am fortunate to be supported by research fellowships from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada. My work has been highlighted by excellence awards, such as the 2024 Relève Étoile Jacques-Genest Award from the Fonds de recherche du Québec.  
+I am fortunate to be supported by postdoctoral fellowships from the Canadian Institutes of Health Research, the Fonds de recherche du Québec, the Fondation du Centre hospitalier de l'Université de Montréal, the Ministère de l'Économie, de l'Innovation et de l'Énergie du Québec, the Université de Montréal Faculté de médecine, the Chaire Power Corporation du Canada en neurosciences de l'Université de Montréal, and the Royal College of Physicians and Surgeons of Canada. My work has been highlighted by excellence awards, such as the 2024 Relève Étoile Jacques-Genest Award from the Fonds de recherche du Québec.  
   
 ![Funding agencies](images/Funding logos.tiff)
