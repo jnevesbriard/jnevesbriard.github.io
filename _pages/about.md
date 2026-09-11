@@ -13,7 +13,7 @@ Welcome!
 
 I am a neurologist, intensivist and clinical epidemiologist. My current area of research is multimodal prediction of recovery from coma and other acute disorders of consciousness after severe brain injury.  
 
-## Interests
+## Research
 
 My research currently focuses on the implications of sedative and analgesic medications on consciousness assessment and prognostication in critically ill individuals. I have a general interest in prediction of functional recovery from acute disorders of consciousness and in precision neurocritical care. My previous area of research was death determination by neurologic criteria.  
 
