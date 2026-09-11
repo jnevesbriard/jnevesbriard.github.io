@@ -19,6 +19,7 @@ My research currently focuses on the implications of sedative and analgesic medi
 
 ### Selected Publications
 
+- Neves Briard J, English SW, Fergusson DA, Dhanani S, Lauzier F, Turgeon AF, et al. [Prevalence, semiology and neuroimaging of movements in comatose adults at risk of death by neurologic criteria: A prospective cohort study](https://link.springer.com/article/10.1186/s13054-026-06037-2). *Critical Care*. 2026; 30: 362.
 - Chassé M, Shankar JJS, Fergusson DA, English SW, Dhanani S, Lauzier F, et al. [Computed tomography perfusion and angiography for death by neurologic criteria](https://www.doi.org/10.1001/jamaneurol.2025.2375). *JAMA Neurology*. 2025; 82(9): 932–40.
 - Glorion M, Neves Briard J, Roquebert L, Pizzi S, Menaouar A, Borie M, et al. [Thoraco-abdominal normothermic regional perfusion does not restore cerebral blood flow or electrical activity despite collateral supra-aortic blood flow in a porcine model](https://www.doi.org/10.1016/j.jhlto.2025.100221). *Journal of Heart and Lung Transplantation Open*. 2025; 100221.
 - Neves Briard J, Nitulescu R, Lemoine E, Titova P, McIntyre L, English SW, et al. [Diagnostic accuracy of ancillary tests for death by neurologic criteria: A systematic review and meta-analysis](https://www.doi.org/10.1007/s12630-023-02426-1). *Canadian Journal of Anesthesia*. 2023; 70: 736-48.
